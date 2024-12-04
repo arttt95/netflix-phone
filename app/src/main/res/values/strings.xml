@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Netflix</string>
+    <string name="edit_digite_nome">Digite seu nome aqui</string>
+    <string name="text_series">Séries</string>
+    <string name="text_filmes">Filmes</string>
+    <string name="text_minha_lista">Minha lista</string>
 </resources>
