@@ -1,7 +1,20 @@
 <resources>
     <string name="app_name">Netflix</string>
+
+    <!-- TEXT-EDITS -->
     <string name="edit_digite_nome">Digite seu nome aqui</string>
+
+    <!-- BUTTONS -->
+    <string name="button_assistir">ASSISTIR</string>
+    <string name="button_minha_lista">MINHA LISTA</string>
+    <string name="button_info">DETALHES</string>
+
+    <!-- TEXTS -->
     <string name="text_series">Séries</string>
     <string name="text_filmes">Filmes</string>
     <string name="text_minha_lista">Minha lista</string>
+    <string name="text_violencia">Violência</string>
+    <string name="text_empolgante">Empolgante</string>
+    <string name="text_sinistro">Sinistro</string>
+    <string name="text_lancamentos">Lançamentos</string>
 </resources>

@@ -51,7 +51,7 @@
         <item name="colorSurfaceContainerHighest">@color/md_theme_surfaceContainerHighest</item>
 
         <!--<item name="android:statusBarColor">?attr/colorPrimary</item>-->
-        <item name="android:windowBackground">@color/md_theme_onTertiaryFixed</item>
+        <item name="android:windowBackground">@color/colorBackground</item>
 
     </style>
 
